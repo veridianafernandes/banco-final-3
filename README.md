@@ -1,0 +1,1 @@
+Esse banco de dados faz parte da pesquisa de Iniciação Científica "Tendências da Mortalidade Infantil, Neonatal e Características de Saúde do Recém-Nascido em Países Selecionados do Sul Global entre 2010 e 2021", de Veridiana Nobre de Campos Fernandes (FCA/Unicamp), sob orientação de Luciana Correia Alves (IFCH/Unicamp).
